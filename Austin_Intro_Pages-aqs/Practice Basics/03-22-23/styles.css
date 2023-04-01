@@ -1,0 +1,16 @@
+/*This is simple css to style the h1 text color black and the entire body as lightblue*/
+h1 {
+    color: black;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h2 {
+    color:rgb(231, 108, 215);
+}
+
+#warren {
+    color: blue;
+}
