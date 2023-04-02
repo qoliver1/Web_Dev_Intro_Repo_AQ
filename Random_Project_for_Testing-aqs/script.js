@@ -1,3 +1,4 @@
-let x = 4;
-const firstName = "Austin";
-console.log();
+foo(50);
+function foo(input) {
+    console.log(`The temperature is ${input}`);
+}

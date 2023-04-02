@@ -1,0 +1,37 @@
+/*TODO: Need to organize css elements*/
+label, input {
+    margin-bottom: 5%;
+}
+
+p, h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+form {
+    padding: 2%;
+    border-style: solid;
+    border-width: 0.1em;
+    border-radius: 5%;
+    text-align: left;
+    display: block;
+    width: 20%;
+    margin: 0 auto;
+}
+
+#headerForm {
+    align-items: center;
+    text-align: center;
+}
+
+#submitButton, #checkButton {
+    width: 93%;
+    margin-top: 5%;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding-top: 2%;
+}
+
+input {
+    width: 90%;
+}
